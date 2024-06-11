@@ -55,7 +55,7 @@ Languages and Tools:
 ### My Github Statistics
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=tp-the-developer&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=tp-the-developer&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
@@ -63,24 +63,24 @@ Languages and Tools:
 
 |Github Streak|God Bless StackOverflow!|
 |:-----------:|:-----:|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)|[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13949231&theme=dark)](https://stackoverflow.com/users/13949231/aryashah2k)|
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tp-the-developer&theme=gotham)]
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=tp-the-developer&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+<img src="https://profile-counter.glitch.me/tp-the-developer/count.svg" />
 </p>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=react-dark&area=true)
+
 <!--
 **tp-the-developer/tp-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
