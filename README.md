@@ -73,10 +73,7 @@ Languages and Tools:
 
 
 
-<p align="center"> 
-  Visitor Count<br>
-<img src="https://profile-counter.glitch.me/tp-the-developer/count.svg" />
-</p>
+
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" />
