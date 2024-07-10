@@ -31,7 +31,7 @@ Languages and Tools:
 <img align="" height='120px' src="https://github.com/tp-the-developer/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" />
 </p>
 
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Tejas 🙋‍♂️.
+## Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Tejas 🙋‍♂️.
 
 
 <img align="right" src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric.gif" alt="gif">
@@ -62,13 +62,13 @@ Languages and Tools:
 <br>
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
 
-
+<!--
 |Github Streak|God Bless StackOverflow!|
 |:-----------:|:-----:|
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tp-the-developer&theme=gotham)]
 
 
-
+-->
 <img src="https://github-profile-trophy.vercel.app/?username=tp-the-developer&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
