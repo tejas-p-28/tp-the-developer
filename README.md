@@ -1,5 +1,6 @@
 
-### Hi Developers 👋
+## Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Tejas 🙋‍♂️.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tejas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-patil-623430218//)](https://www.linkedin.com/in/tejas-patil-623430218//)
 [![Website Badge](https://img.shields.io/badge/WebSite-Tejas-green)](https://tp-the-developer.github.io/Tejas_Portfolio/)
@@ -31,7 +32,6 @@ Languages and Tools:
 <img align="" height='120px' src="https://github.com/tp-the-developer/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" />
 </p>
 
-## Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Tejas 🙋‍♂️.
 
 
 <img align="right" src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric.gif" alt="gif">
@@ -60,9 +60,7 @@ Languages and Tools:
 
 
 
-<p align="center">
-<img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/tp-the-developer/tp-the-developer/blob/main/assets/Geometric%20White.gif" />
-</p>
+
 
 
 <!--
