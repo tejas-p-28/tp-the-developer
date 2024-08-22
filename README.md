@@ -54,19 +54,7 @@ Languages and Tools:
 --->
 
 
-### My Github Statistics
 
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)-->
-
-<!--
-|Github Streak|God Bless StackOverflow!|
-|:-----------:|:-----:|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tp-the-developer&theme=gotham)]
-
-
--->
-<img src="https://github-profile-trophy.vercel.app/?username=tp-the-developer&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 
